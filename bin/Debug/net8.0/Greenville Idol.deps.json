@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Greenville Idol/1.0.0": {
+        "runtime": {
+          "Greenville Idol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Greenville Idol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

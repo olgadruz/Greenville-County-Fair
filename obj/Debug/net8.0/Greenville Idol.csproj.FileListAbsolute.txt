@@ -1,0 +1,14 @@
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/bin/Debug/net8.0/Greenville Idol
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/bin/Debug/net8.0/Greenville Idol.deps.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/bin/Debug/net8.0/Greenville Idol.runtimeconfig.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/bin/Debug/net8.0/Greenville Idol.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/bin/Debug/net8.0/Greenville Idol.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/obj/Debug/net8.0/Greenville Idol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/obj/Debug/net8.0/Greenville Idol.AssemblyInfoInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/obj/Debug/net8.0/Greenville Idol.AssemblyInfo.cs
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/obj/Debug/net8.0/Greenville Idol.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/obj/Debug/net8.0/Greenville Idol.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/obj/Debug/net8.0/refint/Greenville Idol.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/obj/Debug/net8.0/Greenville Idol.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/obj/Debug/net8.0/Greenville Idol.genruntimeconfig.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol/obj/Debug/net8.0/ref/Greenville Idol.dll
