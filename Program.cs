@@ -43,5 +43,6 @@ class Program
             }
         }
         Console.WriteLine("Thank you for using the Greenville Revenue App, good-bye!");
+        Console.ReadKey();
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Greenville Idol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d1cf7a9e6023293fd58d708f9542cc08f528ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Greenville Idol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Greenville Idol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
